@@ -3482,3 +3482,465 @@
 2025-04-30 17:05:44,892 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '260.74898178466015'
 2025-04-30 17:05:45,088 - INFO - Analytics saved to analytics/tracking_20250430_170545.csv
 2025-04-30 17:05:45,392 - INFO - Program terminated successfully
+2025-05-21 05:51:04,929 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '0.0'
+2025-05-21 05:51:04,930 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '160.0'
+2025-05-21 05:51:04,930 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '1.0'
+2025-05-21 05:51:05,878 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:06,326 - INFO - Right hand objects: ['sports ball']
+2025-05-21 05:51:06,406 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '379.0'
+2025-05-21 05:51:06,407 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '5.342952292839868'
+2025-05-21 05:51:06,736 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:06,788 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '5.541230592591887'
+2025-05-21 05:51:07,515 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:07,938 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-0.7968867300440934'
+2025-05-21 05:51:08,708 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:10,669 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:11,581 - INFO - Left hand objects: ['suitcase', 'traffic light']
+2025-05-21 05:51:11,676 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '123.13774062419165'
+2025-05-21 05:51:12,021 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:12,136 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '183.8811263958825'
+2025-05-21 05:51:12,479 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:12,522 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:13,103 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '191.18732328402328'
+2025-05-21 05:51:13,463 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:13,662 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '229.1187028994518'
+2025-05-21 05:51:14,072 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:14,470 - INFO - Left hand objects: ['traffic light', 'tv']
+2025-05-21 05:51:14,522 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:14,916 - INFO - Left hand objects: ['cell phone']
+2025-05-21 05:51:15,435 - INFO - Right hand objects: ['tv']
+2025-05-21 05:51:16,000 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '15.911494083142514'
+2025-05-21 05:51:16,379 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:16,423 - INFO - Right hand objects: ['tv']
+2025-05-21 05:51:16,891 - INFO - Right hand objects: ['tv']
+2025-05-21 05:51:16,948 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '32.89191646568099'
+2025-05-21 05:51:17,347 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:17,410 - INFO - Right hand objects: ['tv', 'traffic light']
+2025-05-21 05:51:17,804 - INFO - Left hand objects: ['traffic light', 'traffic light']
+2025-05-21 05:51:17,905 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '50.75372027479713'
+2025-05-21 05:51:18,255 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:18,302 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:18,803 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '41.20315242936738'
+2025-05-21 05:51:19,224 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '29.955887258487905'
+2025-05-21 05:51:19,546 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:19,666 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '19.774721989660065'
+2025-05-21 05:51:20,426 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:20,472 - INFO - Right hand objects: ['tv']
+2025-05-21 05:51:20,867 - INFO - Left hand objects: ['tv', 'traffic light']
+2025-05-21 05:51:21,422 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:22,078 - INFO - Left hand objects: ['tv', 'traffic light']
+2025-05-21 05:51:22,152 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:22,633 - INFO - Right hand objects: ['person', 'scissors', 'traffic light']
+2025-05-21 05:51:22,688 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '58.6633392131813'
+2025-05-21 05:51:23,121 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:23,175 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '24.00066896217163'
+2025-05-21 05:51:23,591 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:24,077 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:24,604 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:25,582 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:26,029 - INFO - Left hand objects: ['cell phone']
+2025-05-21 05:51:26,120 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:26,535 - INFO - Left hand objects: ['cell phone']
+2025-05-21 05:51:26,597 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:26,650 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-14.665812853282489'
+2025-05-21 05:51:27,084 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:27,470 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:27,569 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:27,630 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-3.730996230216931'
+2025-05-21 05:51:27,973 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:28,026 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-4.665201340678834'
+2025-05-21 05:51:28,321 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:28,723 - INFO - Left hand objects: ['traffic light', 'tv']
+2025-05-21 05:51:28,765 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:29,976 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-11.866871508482802'
+2025-05-21 05:51:30,307 - INFO - Left hand objects: ['bed']
+2025-05-21 05:51:30,358 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-12.108802461601329'
+2025-05-21 05:51:30,794 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '84.00746811357536'
+2025-05-21 05:51:31,119 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '46.77006320761086'
+2025-05-21 05:51:31,807 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '32.59635521782974'
+2025-05-21 05:51:32,130 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '23.0014988597581'
+2025-05-21 05:51:32,484 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '12.878116883239443'
+2025-05-21 05:51:32,868 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '2.060332803653978'
+2025-05-21 05:51:33,235 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '1.528281427253603'
+2025-05-21 05:51:33,583 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '4.079677351866167'
+2025-05-21 05:51:33,922 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-0.11664983271708707'
+2025-05-21 05:51:35,014 - INFO - Left hand objects: ['skateboard']
+2025-05-21 05:51:35,507 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '343.89817690514474'
+2025-05-21 05:51:35,839 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:35,890 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '336.65857439811157'
+2025-05-21 05:51:36,230 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '9.5716236588774'
+2025-05-21 05:51:36,547 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '10.47037060392637'
+2025-05-21 05:51:36,916 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '14.669896485908282'
+2025-05-21 05:51:37,249 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '20.42371965096271'
+2025-05-21 05:51:38,549 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '18.738647775758523'
+2025-05-21 05:51:38,936 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '27.407437678011263'
+2025-05-21 05:51:39,282 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:39,685 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:40,083 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '269.4794991047163'
+2025-05-21 05:51:40,527 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '43.12292621073664'
+2025-05-21 05:51:40,905 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '23.118477219543422'
+2025-05-21 05:51:41,363 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '33.17307360090308'
+2025-05-21 05:51:41,693 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:41,745 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '23.305631348424072'
+2025-05-21 05:51:42,133 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '12.375981384876354'
+2025-05-21 05:51:42,467 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '6.81041788644194'
+2025-05-21 05:51:43,160 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-5.5037090406506195'
+2025-05-21 05:51:43,449 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:45,020 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:45,410 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:45,492 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '4.19989442013491'
+2025-05-21 05:51:45,832 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-0.34853708490055624'
+2025-05-21 05:51:46,160 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '179.52221519837352'
+2025-05-21 05:51:46,486 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:46,536 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '20.5806537536763'
+2025-05-21 05:51:46,865 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:46,917 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '11.614536200739337'
+2025-05-21 05:51:47,238 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:47,328 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '7.046865698092915'
+2025-05-21 05:51:47,660 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:47,711 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '2.7497442839082282'
+2025-05-21 05:51:48,068 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:48,120 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '0.844973529727099'
+2025-05-21 05:51:48,454 - INFO - Left hand objects: ['traffic light', 'person']
+2025-05-21 05:51:48,506 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '10.883323862103566'
+2025-05-21 05:51:48,878 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:48,955 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '3.2718638002987745'
+2025-05-21 05:51:49,299 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:49,703 - INFO - Left hand objects: ['traffic light', 'person', 'traffic light']
+2025-05-21 05:51:49,773 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-7.202343641405491'
+2025-05-21 05:51:50,134 - INFO - Left hand objects: ['traffic light', 'person', 'traffic light']
+2025-05-21 05:51:50,209 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '46.50688195475908'
+2025-05-21 05:51:50,552 - INFO - Left hand objects: ['traffic light', 'person']
+2025-05-21 05:51:50,604 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '95.77342883838912'
+2025-05-21 05:51:50,931 - INFO - Left hand objects: ['traffic light', 'person', 'traffic light']
+2025-05-21 05:51:50,981 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '44.72966190557031'
+2025-05-21 05:51:51,277 - INFO - Left hand objects: ['traffic light', 'traffic light', 'person']
+2025-05-21 05:51:51,367 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '28.532691154539123'
+2025-05-21 05:51:51,731 - INFO - Right hand objects: ['person']
+2025-05-21 05:51:52,077 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:52,130 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '25.264700673903633'
+2025-05-21 05:51:52,450 - INFO - Left hand objects: ['traffic light', 'person']
+2025-05-21 05:51:52,493 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:52,539 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '10.540909508693176'
+2025-05-21 05:51:52,843 - INFO - Left hand objects: ['person', 'traffic light', 'traffic light']
+2025-05-21 05:51:52,892 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '9.579843175634608'
+2025-05-21 05:51:53,238 - INFO - Left hand objects: ['traffic light', 'person', 'traffic light']
+2025-05-21 05:51:53,302 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '14.715712311738116'
+2025-05-21 05:51:53,689 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '-5.786540037160535'
+2025-05-21 05:51:54,501 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:54,546 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:54,594 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '91.39185671236902'
+2025-05-21 05:51:54,914 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:54,968 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:55,334 - INFO - Left hand objects: ['traffic light', 'traffic light']
+2025-05-21 05:51:55,380 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:55,433 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '37.24160210227552'
+2025-05-21 05:51:55,796 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:56,229 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:51:56,316 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '22.498905382760938'
+2025-05-21 05:51:56,646 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:56,697 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '87.20397428219457'
+2025-05-21 05:51:57,097 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:57,149 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '63.69683852069147'
+2025-05-21 05:51:57,149 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '240.31166612417678'
+2025-05-21 05:51:58,399 - INFO - Left hand objects: ['person']
+2025-05-21 05:51:58,862 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:51:58,899 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:51:58,949 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '6.442627293595365'
+2025-05-21 05:51:59,383 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:00,423 - INFO - Left hand objects: ['traffic light', 'traffic light']
+2025-05-21 05:52:00,799 - INFO - Left hand objects: ['orange', 'orange', 'traffic light']
+2025-05-21 05:52:03,439 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.87007907921904'
+2025-05-21 05:52:03,719 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '141.4377797785286'
+2025-05-21 05:52:04,001 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '140.82848952421372'
+2025-05-21 05:52:04,292 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.88915021972946'
+2025-05-21 05:52:04,590 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.98789732306622'
+2025-05-21 05:52:04,921 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '143.69583185321488'
+2025-05-21 05:52:05,243 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '142.76653948443658'
+2025-05-21 05:52:05,536 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.11683375625648'
+2025-05-21 05:52:05,827 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.61894308938886'
+2025-05-21 05:52:06,116 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '143.51365723755916'
+2025-05-21 05:52:06,412 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.02574362662068'
+2025-05-21 05:52:06,699 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '143.36687676461648'
+2025-05-21 05:52:07,267 - INFO - Left hand objects: ['kite']
+2025-05-21 05:52:08,478 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:09,197 - INFO - Left hand objects: ['traffic light', 'traffic light']
+2025-05-21 05:52:09,253 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:09,545 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:09,920 - INFO - Left hand objects: ['person']
+2025-05-21 05:52:10,269 - INFO - Left hand objects: ['person']
+2025-05-21 05:52:10,656 - INFO - Left hand objects: ['person']
+2025-05-21 05:52:10,707 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '203.7608532282142'
+2025-05-21 05:52:11,039 - INFO - Left hand objects: ['person']
+2025-05-21 05:52:11,117 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '197.88517231095614'
+2025-05-21 05:52:11,442 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:11,495 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '183.03134815634206'
+2025-05-21 05:52:11,793 - INFO - Left hand objects: ['person', 'traffic light']
+2025-05-21 05:52:12,186 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '188.28681838479721'
+2025-05-21 05:52:12,468 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:12,520 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '193.4291437707299'
+2025-05-21 05:52:14,059 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:14,422 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:14,473 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '138.6479317328358'
+2025-05-21 05:52:14,807 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:14,857 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '166.5915575334877'
+2025-05-21 05:52:15,151 - INFO - Right hand objects: ['person', 'traffic light']
+2025-05-21 05:52:15,201 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '171.13952173068878'
+2025-05-21 05:52:15,494 - INFO - Right hand objects: ['person', 'traffic light']
+2025-05-21 05:52:15,545 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '153.51467959868458'
+2025-05-21 05:52:15,834 - INFO - Right hand objects: ['person', 'traffic light']
+2025-05-21 05:52:15,886 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '160.49690731257763'
+2025-05-21 05:52:16,231 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '145.43597560413912'
+2025-05-21 05:52:17,195 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:17,523 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:17,848 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:17,901 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '138.15766771273516'
+2025-05-21 05:52:18,251 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '130.58017022069342'
+2025-05-21 05:52:18,872 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:18,933 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '118.35049059814017'
+2025-05-21 05:52:19,236 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:19,592 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:19,984 - INFO - Right hand objects: ['traffic light', 'traffic light']
+2025-05-21 05:52:20,726 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '111.17825654384393'
+2025-05-21 05:52:21,423 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:21,826 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:22,176 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:22,575 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '112.44711785039607'
+2025-05-21 05:52:22,932 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.28334957182562'
+2025-05-21 05:52:23,277 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:23,340 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '135.08059838982385'
+2025-05-21 05:52:23,677 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:24,116 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '132.3296291432987'
+2025-05-21 05:52:25,396 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:25,908 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:26,367 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:27,635 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:29,137 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.56974363956365'
+2025-05-21 05:52:29,512 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '161.99398746034154'
+2025-05-21 05:52:29,880 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:29,954 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.7225657559351'
+2025-05-21 05:52:30,290 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:31,021 - INFO - Right hand objects: ['person']
+2025-05-21 05:52:31,074 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '176.0969979026364'
+2025-05-21 05:52:31,373 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.71195090998495'
+2025-05-21 05:52:31,679 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '157.27463044014692'
+2025-05-21 05:52:31,965 - INFO - Right hand objects: ['sports ball']
+2025-05-21 05:52:32,584 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '155.060453458829'
+2025-05-21 05:52:33,164 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '149.4193201471327'
+2025-05-21 05:52:33,461 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '147.672996256844'
+2025-05-21 05:52:33,737 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '147.92281382394032'
+2025-05-21 05:52:34,020 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '146.80379263509118'
+2025-05-21 05:52:34,295 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '145.45257913132892'
+2025-05-21 05:52:34,568 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.79678950660997'
+2025-05-21 05:52:34,837 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.1926170616558'
+2025-05-21 05:52:35,115 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.67541281181184'
+2025-05-21 05:52:35,396 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.6410474991781'
+2025-05-21 05:52:35,692 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '147.02462999223073'
+2025-05-21 05:52:36,240 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:36,341 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '139.15003894444763'
+2025-05-21 05:52:36,715 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '146.04619607458227'
+2025-05-21 05:52:37,100 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '150.03651003065232'
+2025-05-21 05:52:37,492 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '134.08185350231872'
+2025-05-21 05:52:37,889 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '128.1834283314656'
+2025-05-21 05:52:38,203 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '136.5203981012851'
+2025-05-21 05:52:38,563 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '139.04752235809832'
+2025-05-21 05:52:38,874 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:38,929 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '129.8358968072307'
+2025-05-21 05:52:39,308 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '122.20568633230624'
+2025-05-21 05:52:39,582 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:40,564 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '114.98059524660226'
+2025-05-21 05:52:41,449 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '115.9201565038914'
+2025-05-21 05:52:41,739 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '118.81340018813353'
+2025-05-21 05:52:42,043 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '118.681650053937'
+2025-05-21 05:52:42,336 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '118.5316692595618'
+2025-05-21 05:52:42,644 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '118.49186545604647'
+2025-05-21 05:52:43,206 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '119.5949017377173'
+2025-05-21 05:52:43,480 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.21831515534541'
+2025-05-21 05:52:43,760 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '122.13955093377234'
+2025-05-21 05:52:44,039 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '124.32964025743803'
+2025-05-21 05:52:44,306 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '124.56360788554153'
+2025-05-21 05:52:44,580 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '125.90322846512734'
+2025-05-21 05:52:44,865 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '124.60473272128195'
+2025-05-21 05:52:45,144 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '122.43524349221931'
+2025-05-21 05:52:45,453 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.13464244856448'
+2025-05-21 05:52:46,030 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.81278083254614'
+2025-05-21 05:52:46,302 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '122.81329906522726'
+2025-05-21 05:52:46,891 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '120.4229838203837'
+2025-05-21 05:52:47,163 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.6603393821797'
+2025-05-21 05:52:47,441 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '121.72420740249271'
+2025-05-21 05:52:47,743 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '122.07002643540207'
+2025-05-21 05:52:48,021 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '112.75674204655792'
+2025-05-21 05:52:48,333 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '60.975833197197574'
+2025-05-21 05:52:48,629 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:48,678 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '25.946511127065094'
+2025-05-21 05:52:48,923 - INFO - Left hand objects: ['traffic light', 'traffic light', 'traffic light']
+2025-05-21 05:52:48,975 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:52:49,288 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:52:49,378 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '64.36497292115632'
+2025-05-21 05:52:51,413 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.5077689835608'
+2025-05-21 05:52:51,938 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '162.4447315889493'
+2025-05-21 05:52:52,195 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '175.6454694702295'
+2025-05-21 05:52:52,469 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '183.9704120807636'
+2025-05-21 05:52:52,739 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '194.8782374173258'
+2025-05-21 05:52:53,023 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '194.01732727644787'
+2025-05-21 05:52:53,306 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '167.94794739078705'
+2025-05-21 05:52:53,872 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '165.3969816648546'
+2025-05-21 05:52:54,148 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '161.41439837442982'
+2025-05-21 05:52:56,468 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.1222254243218'
+2025-05-21 05:52:56,757 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '162.57681826634368'
+2025-05-21 05:52:57,085 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '160.24775115995362'
+2025-05-21 05:52:57,412 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '156.70911468178386'
+2025-05-21 05:52:57,711 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '154.6449158169642'
+2025-05-21 05:52:58,041 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '153.23822582648032'
+2025-05-21 05:52:58,394 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.03031259061666'
+2025-05-21 05:52:58,744 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.2782893938153'
+2025-05-21 05:52:59,083 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '153.0844875213458'
+2025-05-21 05:52:59,414 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.54040292072082'
+2025-05-21 05:52:59,771 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '151.62409513669618'
+2025-05-21 05:53:00,131 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.92971828902438'
+2025-05-21 05:53:00,462 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '153.0128975420348'
+2025-05-21 05:53:00,796 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.8387415972958'
+2025-05-21 05:53:01,117 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.15919832548298'
+2025-05-21 05:53:01,448 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.12020183049168'
+2025-05-21 05:53:01,797 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '154.77618488648827'
+2025-05-21 05:53:02,451 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:02,502 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '155.87556716077071'
+2025-05-21 05:53:02,967 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '161.81654141264627'
+2025-05-21 05:53:03,337 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.66757938774816'
+2025-05-21 05:53:03,700 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.49625502696435'
+2025-05-21 05:53:04,055 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '176.65727690965812'
+2025-05-21 05:53:04,320 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:04,394 - INFO - Right hand objects: ['person']
+2025-05-21 05:53:04,463 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '182.53745048789966'
+2025-05-21 05:53:04,797 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '180.47039746800482'
+2025-05-21 05:53:05,115 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '181.93354353009218'
+2025-05-21 05:53:05,355 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:05,443 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '184.19204205556292'
+2025-05-21 05:53:05,739 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '177.63608205263967'
+2025-05-21 05:53:05,964 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:06,037 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '179.4953340149325'
+2025-05-21 05:53:06,287 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:06,369 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '182.762222551187'
+2025-05-21 05:53:06,618 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:06,699 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '183.24743099867686'
+2025-05-21 05:53:07,029 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '171.6383392839612'
+2025-05-21 05:53:07,352 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '177.04627841998374'
+2025-05-21 05:53:07,672 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '172.6093888923309'
+2025-05-21 05:53:08,002 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '170.00288705150336'
+2025-05-21 05:53:08,283 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '171.8578250852256'
+2025-05-21 05:53:08,556 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '176.40948634808268'
+2025-05-21 05:53:08,835 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '173.04267408901416'
+2025-05-21 05:53:09,139 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '176.08679261508388'
+2025-05-21 05:53:09,454 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '176.61108554342087'
+2025-05-21 05:53:09,805 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '172.56666168281885'
+2025-05-21 05:53:10,075 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '161.07232591723795'
+2025-05-21 05:53:10,365 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '140.13636133924703'
+2025-05-21 05:53:10,645 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '127.52380949168614'
+2025-05-21 05:53:10,934 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '125.68742646932552'
+2025-05-21 05:53:11,227 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '123.44611706821831'
+2025-05-21 05:53:11,518 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '127.55559640484603'
+2025-05-21 05:53:11,842 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '130.2111921944404'
+2025-05-21 05:53:12,174 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '129.14965094582956'
+2025-05-21 05:53:12,540 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '130.78426744334826'
+2025-05-21 05:53:12,915 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '129.16392111240475'
+2025-05-21 05:53:13,273 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.2835021785662'
+2025-05-21 05:53:13,700 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '134.84071979316'
+2025-05-21 05:53:14,079 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '135.2564518223281'
+2025-05-21 05:53:14,460 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '306.544616163016'
+2025-05-21 05:53:14,461 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '134.92098278449055'
+2025-05-21 05:53:14,880 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '304.7220395829316'
+2025-05-21 05:53:14,880 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '135.2975959967239'
+2025-05-21 05:53:15,255 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '305.82589740249244'
+2025-05-21 05:53:15,255 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '134.31804289965328'
+2025-05-21 05:53:15,615 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '304.01332088402825'
+2025-05-21 05:53:15,615 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.80489996144306'
+2025-05-21 05:53:15,959 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '138.60454045999725'
+2025-05-21 05:53:16,219 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:16,304 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '136.66083340793222'
+2025-05-21 05:53:16,915 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:16,952 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:17,267 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:17,596 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:17,676 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '141.57066426934318'
+2025-05-21 05:53:17,918 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:18,005 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '143.19249968624908'
+2025-05-21 05:53:18,266 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:18,361 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '150.22299574520395'
+2025-05-21 05:53:18,719 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '163.7305540142013'
+2025-05-21 05:53:18,997 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:19,080 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '170.16051182591613'
+2025-05-21 05:53:19,400 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:19,451 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '172.32215221334187'
+2025-05-21 05:53:19,723 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:19,756 - INFO - Right hand objects: ['sports ball']
+2025-05-21 05:53:19,809 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '170.61176180221395'
+2025-05-21 05:53:20,083 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:20,169 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '148.58203858379576'
+2025-05-21 05:53:20,443 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:20,523 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.92482068733042'
+2025-05-21 05:53:20,807 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:20,843 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:20,894 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '279.66311219259194'
+2025-05-21 05:53:20,894 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '150.39656120074469'
+2025-05-21 05:53:21,252 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '155.34409007155233'
+2025-05-21 05:53:21,601 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '157.70596798240874'
+2025-05-21 05:53:21,873 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:21,902 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:21,953 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '166.33177324612453'
+2025-05-21 05:53:22,221 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:22,253 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:22,303 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '164.77252699559486'
+2025-05-21 05:53:22,612 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:22,712 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '165.03548745309385'
+2025-05-21 05:53:22,988 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:23,071 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '165.66937071027894'
+2025-05-21 05:53:23,347 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:23,427 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '165.87827702494806'
+2025-05-21 05:53:23,706 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:23,741 - INFO - Right hand objects: ['traffic light']
+2025-05-21 05:53:23,794 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '162.70096854143617'
+2025-05-21 05:53:24,158 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.07157644181373'
+2025-05-21 05:53:24,513 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.29826836966157'
+2025-05-21 05:53:24,793 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:24,874 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '167.53926649652053'
+2025-05-21 05:53:25,229 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.8841309732939'
+2025-05-21 05:53:25,505 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:25,588 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '169.9342928755487'
+2025-05-21 05:53:25,877 - INFO - Left hand objects: ['traffic light']
+2025-05-21 05:53:25,961 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '169.22173835142746'
+2025-05-21 05:53:26,320 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.68057665277618'
+2025-05-21 05:53:27,429 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '141.30515711322084'
+2025-05-21 05:53:27,926 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '130.13644297656344'
+2025-05-21 05:53:28,176 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '126.55459927815329'
+2025-05-21 05:53:28,424 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '136.8791522040565'
+2025-05-21 05:53:28,669 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '132.359344762832'
+2025-05-21 05:53:30,183 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.53258127016733'
+2025-05-21 05:53:31,226 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '137.16688798696578'
+2025-05-21 05:53:31,744 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '129.7503326426304'
+2025-05-21 05:53:32,008 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '133.3905522012369'
+2025-05-21 05:53:32,505 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '136.2651225181658'
+2025-05-21 05:53:32,769 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '142.23416495664986'
+2025-05-21 05:53:33,591 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '137.91191386161492'
+2025-05-21 05:53:33,920 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '130.81050565031956'
+2025-05-21 05:53:34,262 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '131.66437965807887'
+2025-05-21 05:53:34,599 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '137.27972090306355'
+2025-05-21 05:53:35,049 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '139.7479268985128'
+2025-05-21 05:53:35,384 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '140.29186903648946'
+2025-05-21 05:53:35,955 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '140.1272303342592'
+2025-05-21 05:53:36,249 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '143.61179359019113'
+2025-05-21 05:53:36,546 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '144.31819108692622'
+2025-05-21 05:53:36,874 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '147.3901531881913'
+2025-05-21 05:53:37,152 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '148.28682504252035'
+2025-05-21 05:53:38,050 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '154.93107723007623'
+2025-05-21 05:53:38,339 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.41227877646406'
+2025-05-21 05:53:38,642 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '152.74921930924884'
+2025-05-21 05:53:38,928 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '157.4185854379592'
+2025-05-21 05:53:40,184 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '162.60928707580845'
+2025-05-21 05:53:40,458 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '163.12429334983426'
+2025-05-21 05:53:40,746 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '158.0146744717507'
+2025-05-21 05:53:41,032 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '159.51992867383817'
+2025-05-21 05:53:41,335 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '165.0521803015494'
+2025-05-21 05:53:41,580 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '167.51260932297558'
+2025-05-21 05:53:41,843 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '168.04766664909477'
+2025-05-21 05:53:42,093 - ERROR - Error processing tracked object: invalid literal for int() with base 10: '163.99114576281164'
+2025-05-21 05:53:42,190 - INFO - Analytics saved to analytics/tracking_20250521_055342.csv
