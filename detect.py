@@ -9,6 +9,7 @@ import os
 from pose_utils import PoseDetector
 from object_in_hand import ObjectInHandDetector
 from tracker import Sort
+from face_recognition_module import FaceRecognizer
 import pandas as pd
 
 # Create necessary directories first
@@ -34,11 +35,15 @@ class ObjectDetector:
         self.pose_detector = PoseDetector()
         self.object_in_hand_detector = ObjectInHandDetector()
         self.tracker = Sort()
+        self.face_recognizer = FaceRecognizer()
         
     def get_random_color(self):
         return tuple(np.random.randint(0, 255, 3).tolist())
     
     def process_frame(self, frame):
+        # Process face recognition
+        frame, face_data = self.face_recognizer.detect_faces(frame)
+        
         # Process pose detection
         frame, pose_landmarks, left_hand, right_hand = self.pose_detector.process_frame(frame)
         
